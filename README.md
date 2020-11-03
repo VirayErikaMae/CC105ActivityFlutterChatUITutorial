@@ -1,4 +1,4 @@
-# flutter_chat_ui
+## flutter_chat_ui
 
 A new Flutter application.
 
